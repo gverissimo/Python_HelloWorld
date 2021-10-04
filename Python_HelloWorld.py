@@ -18,7 +18,7 @@ print("The area of length =", length, "and width =", width, "is:", area)
 
 
 # Sample using matplotlib from:
-#     https://www.machinelearningplus.com/plots/matplotlib-tutorial-complete-guide-python-plot-examples/
+# https://www.machinelearningplus.com/plots/matplotlib-tutorial-complete-guide-python-plot-examples/
 # Scatterplot with varying size and color of points
 import matplotlib.pyplot as plt
 import pandas as pd
